@@ -1,1 +1,1 @@
-var tipuesearch = {"pages": [{'title': '按', 'text': '\n click \n', 'tags': '', 'url': '按.html'}, {'title': '期中報告', 'text': '\n', 'tags': '', 'url': '期中報告.html'}, {'title': 'ROC flag', 'text': '\n', 'tags': '', 'url': 'ROC flag.html'}]};
+var tipuesearch = {"pages": [{'title': '按', 'text': '\n click \n \n', 'tags': '', 'url': '按.html'}, {'title': '期中報告', 'text': '\n', 'tags': '', 'url': '期中報告.html'}, {'title': 'ROC flag', 'text': '\n  啟動 Brython  \n \n \n', 'tags': '', 'url': 'ROC flag.html'}]};
